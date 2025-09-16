@@ -1,0 +1,16 @@
+.header {
+    padding: 17px 57px 86px 167px;
+    background-color: #f4f9e2;
+}
+
+.header__nav {
+    padding-right: 76px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__brand {
+    font-size: 48px;
+    color: #22356F;
+}
